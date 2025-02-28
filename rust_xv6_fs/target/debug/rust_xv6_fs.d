@@ -1,0 +1,1 @@
+/home/wye/FileSystem/rust_xv6_fs/target/debug/rust_xv6_fs: /home/wye/FileSystem/rust_xv6_fs/src/filesystem.rs /home/wye/FileSystem/rust_xv6_fs/src/main.rs /home/wye/FileSystem/rust_xv6_fs/src/shell.rs
