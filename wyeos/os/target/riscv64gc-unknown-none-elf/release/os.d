@@ -1,0 +1,1 @@
+/home/wye/FileSystem/wyeos2/os/target/riscv64gc-unknown-none-elf/release/os: /home/wye/FileSystem/wyeos2/os/src/console.rs /home/wye/FileSystem/wyeos2/os/src/entry.asm /home/wye/FileSystem/wyeos2/os/src/lang_items.rs /home/wye/FileSystem/wyeos2/os/src/logging.rs /home/wye/FileSystem/wyeos2/os/src/main.rs /home/wye/FileSystem/wyeos2/os/src/sbi.rs
